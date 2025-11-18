@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Mai Thanh Phuc</h1>
+<h1 align="center">👋 Hello there, I'm Nguyễn Nhật Nam</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!&center=true&size=22&color=00FFCC">
