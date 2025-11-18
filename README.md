@@ -20,15 +20,9 @@
 ## 🌐 Connect with me  
 <p align="left">
   <!-- Facebook -->
-  <a href="https://www.facebook.com/phuc.2004nee/" target="_blank">
+  <a href="https://www.facebook.com/namnguyen010104" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook.png" width="40"/>
   </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/mt.phuc04/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
-  </a>
-</p>
 
 
 ---
