@@ -1,28 +1,36 @@
-<h1 align="center">👋 Hello there, I'm Nguyễn Nhật Nam</h1>
+<h1 align="center"> Hello there, I'm Nguyễn Nhật Nam </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!&center=true&size=22&color=00FFCC">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=520&lines=Data+Analyst+Intern;Exploring+Data+Science+%26+Machine+Learning;Welcome+to+my+GitHub!">
 </p>
 
 
 
+
 ## 🧑‍💻 About Me  
-- 🎓 Final-year **Data Science** student with a strong passion for applied AI.  
-- 🚀 Interested in **Machine Learning, Deep Learning, NLP**.  
-- 🧠 I enjoy solving real-world problems using data-driven approaches.  
-- 🏗 Actively building projects in **AI, automation, and data engineering pipelines**.  
-- 🎯 Ambition: Become a well-rounded **AI Engineer & ML Researcher**.  
-- 🌱 Currently learning: advanced NLP models, vector databases, and scalable ML systems.
-- 📩 Contact me at: **maithanhphuc1999@gmail.com**
+- 📊 I'm a **Data Analyst Intern** with strong interest in **Data Science & Machine Learning**.  
+- 🎓 Currently learning and improving skills in **Python, SQL, Data Visualization, and Statistics**.  
+- 🤖 Exploring modern tools such as **Pandas, NumPy, Scikit-learn, Power BI, Tableau**.  
+- 📈 Love turning raw data into insights and solving real-world analytical problems.  
+- 🚀 Actively building projects to strengthen my analytical thinking and technical experience.  
+- 💡 Passionate about continuous learning and growing in the data field.
+- 📩 Contact me at: **n.nhatnam.work@gmail.com**
 
 ---
 
-## 🌐 Connect with me  
-<p align="left">
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/namnguyen010104" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook.png" width="40"/>
+## 📫 Contact Me
+
+<p>
+  <!-- Email -->
+  <a href="mailto:n.nhatnam.work@gmai.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="email"/>
   </a>
+
+  <!-- LinkedIn (under development) -->
+  <a href="https://www.linkedin.com/in/nam-nguy%E1%BB%85n-nh%E1%BA%ADt-091689303/" title="LinkedIn (I'm building this profile)">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="linkedin"/>
+  </a>
+</p>
 
 
 ---
