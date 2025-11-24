@@ -90,6 +90,11 @@
 <a href="https://github.com/Nhatnam213/description-topic-analysis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=description-topic-analysis&theme=tokyonight" />
 </a>
+<!-- Project 3A: Microsoft Teams TAM Extended Study -->
+<a href="https://github.com/Nhatnam213/microsoft-teams-tam-extended-study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=microsoft-teams-tam-extended-study&theme=tokyonight" />
+</a>
+
 
 
 
