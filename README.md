@@ -87,10 +87,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=video-category-classification&theme=tokyonight" />
 </a>
 
-<!-- Project 2C: YouTube Topic Modeling -->
+<div align="center">
+
+<!-- Project 2C -->
 <a href="https://github.com/Nhatnam213/description-topic-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=description-topic-analysis&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=description-topic-analysis&theme=tokyonight" />
 </a>
+
+</div>
+
 
 <!-- Project 3A: Microsoft Teams TAM Extended Study -->
 <a href="https://github.com/Nhatnam213/microsoft-teams-tam-extended-study">
