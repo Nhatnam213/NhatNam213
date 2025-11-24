@@ -69,27 +69,22 @@
 ---
 
 ## 📌 Pinned Projects
-
-<!-- 1. Artist Co-appearance Prediction -->
-<a href="https://github.com/maithanhphuc2004/Artist-Coappearance-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Artist-Coappearance-Prediction&theme=tokyonight" />
+<!-- Project 1A: Research Collaboration Detection -->
+<a href="https://github.com/Nhatnam213/research-collaboration-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=research-collaboration-detection&theme=tokyonight" />
 </a>
 
-<!-- 2. Clustering of Artists Participating in Game Shows -->
-<a href="https://github.com/maithanhphuc2004/Clustering-of-artists-participating-in-game-shows">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Clustering-of-artists-participating-in-game-shows&theme=tokyonight" />
-<a href="https://github.com/maithanhphuc2004/Vietnamese-News-Cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Cluster&theme=tokyonight" />
+<!-- Project 1B: Future Research Collaboration Prediction -->
+<a href="https://github.com/Nhatnam213/research-collaboration-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=research-collaboration-prediction&theme=tokyonight" />
 </a>
 
-<!-- 4. Vietnamese News Topic Intelligence -->
-<a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Topic-Intelligence&theme=tokyonight" />
+<!-- Project 2A: YouTube Video Topic Clustering -->
+<a href="https://github.com/Nhatnam213/video-topic-clustering">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=video-topic-clustering&theme=tokyonight" />
 </a>
-
-<!-- 5. Vietnamese News Topic Modeling -->
-<a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Modeling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Topic-Modeling&theme=tokyonight" />
+<a href="https://github.com/Nhatnam213/video-category-classification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=video-category-classification&theme=tokyonight" />
 </a>
 
 
