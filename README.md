@@ -69,33 +69,35 @@
 ---
 
 ## 📌 Pinned Projects
+
 <!-- Project 1A: Research Collaboration Detection -->
 <a href="https://github.com/Nhatnam213/research-collaboration-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=research-collaboration-detection&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nhatnam213&repo=research-collaboration-detection&theme=tokyonight" />
 </a>
 
 <!-- Project 1B: Future Research Collaboration Prediction -->
 <a href="https://github.com/Nhatnam213/research-collaboration-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=research-collaboration-prediction&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nhatnam213&repo=research-collaboration-prediction&theme=tokyonight" />
 </a>
 
 <!-- Project 2A: YouTube Video Topic Clustering -->
 <a href="https://github.com/Nhatnam213/video-topic-clustering">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=video-topic-clustering&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nhatnam213&repo=video-topic-clustering&theme=tokyonight" />
 </a>
+
+<!-- Project 2B: YouTube Video Category Classification -->
 <a href="https://github.com/Nhatnam213/video-category-classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=video-category-classification&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nhatnam213&repo=video-category-classification&theme=tokyonight" />
 </a>
 
 <!-- Project 2C: YouTube Topic Modeling -->
 <a href="https://github.com/Nhatnam213/description-topic-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=description-topic-analysis&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nhatnam213&repo=description-topic-analysis&theme=tokyonight" />
 </a>
-
 
 <!-- Project 3A: Microsoft Teams TAM Extended Study -->
 <a href="https://github.com/Nhatnam213/microsoft-teams-tam-extended-study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhatnam213&repo=microsoft-teams-tam-extended-study&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nhatnam213&repo=microsoft-teams-tam-extended-study&theme=tokyonight" />
 </a>
 
 
